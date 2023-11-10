@@ -1,0 +1,17 @@
+---
+name: Calling Reusable Workflow
+ 
+on:
+  workflow_dispatch: # to trigger workflow manually
+  push: # on every push to the repo
+#     branches:
+#       - "feature/workflow"
+#   pull_request:
+#     types:
+#       - closed
+    
+jobs:
+  call-workflow:
+    uses: Mr-Saikiran/Reusable-GHA/.github/workflows/artifacts.yaml@master/upload-artifacts.yaml # calling reusable workflow
+    with:
+      artifact-path: "test/test2" # path to upload artifacts

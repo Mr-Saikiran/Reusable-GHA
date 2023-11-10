@@ -12,6 +12,6 @@ on:
     
 jobs:
   call-workflow:
-    uses: Mr-Saikiran/Reusable-GHA/.github/workflows/artifacts.yaml@master/upload-artifacts.yaml # calling reusable workflow
+    uses: Mr-Saikiran/Reusable-GHA/.github/workflows/upload-artifacts.yaml@master # calling reusable workflow
     with:
       artifact-path: "test/test2" # path to upload artifacts

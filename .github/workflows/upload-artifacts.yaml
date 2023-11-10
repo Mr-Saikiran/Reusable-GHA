@@ -119,7 +119,7 @@ jobs:
               log.info(f"Artifact {ARTIFACT_NAME} uploaded successfully at {RELEASE_PATH}/{ARTIFACT_PATH}")
           elif response.status_code in [409, 403]:
               log.error(f"{ARTIFACT_NAME} already exists at {RELEASE_PATH}/{ARTIFACT_PATH}, Not enough permissions to overwrite artifact. Please run the job manually instead of re-run")
-              if response.status_code == 403:
+#              if response.status_code == 403:
 #                sys.exit(1)  # add this to fail workflow here if error appears
           else:
               log.error(f"Failed to upload artifact. Status code: {response.status_code}")

@@ -1,6 +1,6 @@
 ---
 title: "Agile foundation Quiz Answers"
-datePublished: Wed Dec 13 2023 19:42:42 GMT+0000 (Coordinated Universal Time)
+datePublished: Sun Jun 13 2021 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clq46hur8000b08l3dixcaydu
 slug: agile-foundation-quiz-answers
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1702495409153/e18c276f-b0ee-4760-b9cc-1fbe2cfdd97c.png

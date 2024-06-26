@@ -1,8 +1,11 @@
 ---
 title: "Cache Docker, Python, Java(Maven), Node(npm), Go Modules in Github Actions"
+seoTitle: "Github Actions Caching"
+seoDescription: "Improve GitHub Actions with efficient caching techniques for Docker, Python, Java, Node, and Go to speed up workflows"
 datePublished: Thu May 11 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clxusgdl1000109l4h7ql11ia
 slug: cache-docker-python-javamaven-nodenpm-go-modules-in-github-actions
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1719430177660/a66047c7-a495-4b2f-bfef-54aa42a437c8.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1719342982956/e51bb9bc-797f-43aa-be8b-4981218ef623.jpeg
 tags: workflow, caching, cache, ci-cd, github-actions-1, caching-strategies
 

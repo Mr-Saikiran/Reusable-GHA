@@ -4,11 +4,10 @@ seoTitle: "JVM leaks"
 datePublished: Fri Sep 06 2019 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: clxw83tv4000009jm4uzcdf48
 slug: understanding-memory-leaks-in-java-jvm
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1719598256318/375d4740-45ba-4cc3-a44e-1c06bda9e375.jpeg
 tags: jvm, java, memory-leak, memory-management
 
 ---
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1719429546143/2d6437df-240d-40c9-95b5-236aaf03b986.jpeg align="center")
 
 First of all Memory leak is not sweeping Unused objects, It is Sweeping referenced objects.
 

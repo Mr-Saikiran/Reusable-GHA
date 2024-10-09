@@ -82,4 +82,6 @@ tags: agile-development, agile, agile-quiz, linkedin-quiz, agile-foundation
 
 `Don't make all your decisions at the beginning when you know the least about the final product`
 
-### wanna thank me? 👉🏼 [buy me a coffee](https://draft.blogger.com/blog/post/edit/6835068182653728272/4086392495458001032#) ☕
+### Wanna thank me? 👇🏼
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png align="left")](https://www.buymeacoffee.com/techswitch)
